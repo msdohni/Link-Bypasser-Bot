@@ -1,5 +1,5 @@
 # To get values from Environment (True/False)
-Get_ENV = True
+Get_ENV = False
 
 # Required if Get_ENV == False
 Vars = [
